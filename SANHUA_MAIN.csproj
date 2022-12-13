@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B8A0C658-B02F-4AF4-A149-3F06056AACA0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SANHUA_MAIN</RootNamespace>
+    <AssemblyName>SANHUA_MAIN</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Device.theme-light.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mcOMRON, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\mcOMRON.dll</HintPath>
+    </Reference>
+    <Reference Include="NModbus4, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\NModbus4.dll</HintPath>
+    </Reference>
+    <Reference Include="SANHUA_TCP, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SANHUA_TCP.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Command_str.cs" />
+    <Compile Include="Form_DatabaseQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DatabaseQuery.Designer.cs">
+      <DependentUpon>Form_DatabaseQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_add_product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_add_product.Designer.cs">
+      <DependentUpon>Form_add_product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_login.Designer.cs">
+      <DependentUpon>Form_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_L_Check.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_L_Check.Designer.cs">
+      <DependentUpon>Form_L_Check.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_main.Designer.cs">
+      <DependentUpon>Form_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_OperatingInstructions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_OperatingInstructions.Designer.cs">
+      <DependentUpon>Form_OperatingInstructions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Product_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Product_Info.Designer.cs">
+      <DependentUpon>Form_Product_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_R_Check.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_R_Check.Designer.cs">
+      <DependentUpon>Form_R_Check.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_system.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_system.Designer.cs">
+      <DependentUpon>Form_system.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IniConfigHelper.cs" />
+    <Compile Include="InstrumentParam.cs" />
+    <Compile Include="JX_APP.cs" />
+    <Compile Include="JX_Device.cs" />
+    <Compile Include="JX_HexToASCII.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScanShield.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScanShield.Designer.cs">
+      <DependentUpon>ScanShield.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SoftConfig.cs" />
+    <EmbeddedResource Include="Form_DatabaseQuery.resx">
+      <DependentUpon>Form_DatabaseQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_add_product.resx">
+      <DependentUpon>Form_add_product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_login.resx">
+      <DependentUpon>Form_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_L_Check.resx">
+      <DependentUpon>Form_L_Check.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_main.resx">
+      <DependentUpon>Form_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_OperatingInstructions.resx">
+      <DependentUpon>Form_OperatingInstructions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Product_Info.resx">
+      <DependentUpon>Form_Product_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_R_Check.resx">
+      <DependentUpon>Form_R_Check.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_system.resx">
+      <DependentUpon>Form_system.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ScanShield.resx">
+      <DependentUpon>ScanShield.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Device.theme-light.ico" />
+    <None Include="Resources\kdocermoretemplate.ico" />
+    <None Include="Resources\ui_design1.ico" />
+    <None Include="Resources\legal_contract.ico" />
+    <None Include="Resources\teaching_tool.ico" />
+    <None Include="Resources\shengchanguanli.ico" />
+    <None Include="Resources\ui_design.ico" />
+    <None Include="Resources\jinxiaocunguanli.ico" />
+    <None Include="Resources\fangwuhetong.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
