@@ -1,0 +1,190 @@
+C:\Users\pc\source\repos\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.exe
+C:\Users\pc\source\repos\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.pdb
+C:\Users\pc\source\repos\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Properties.Resources.resources
+C:\Users\pc\source\repos\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.exe
+C:\Users\pc\source\repos\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.pdb
+C:\Users\pc\source\repos\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_login.resources
+C:\Users\pc\source\repos\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_main.resources
+C:\Users\pc\source\repos\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CopyComplete
+C:\Users\pc\source\repos\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_system.resources
+E:\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.exe
+E:\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.pdb
+E:\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.AssemblyReference.cache
+E:\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_login.resources
+E:\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_main.resources
+E:\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_system.resources
+E:\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Properties.Resources.resources
+E:\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.GenerateResource.cache
+E:\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CoreCompileInputs.cache
+E:\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CopyComplete
+E:\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.exe
+E:\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.pdb
+E:\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_add_product.resources
+C:\Users\pc\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.exe
+C:\Users\pc\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.pdb
+C:\Users\pc\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_add_product.resources
+C:\Users\pc\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_login.resources
+C:\Users\pc\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_main.resources
+C:\Users\pc\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_system.resources
+C:\Users\pc\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Properties.Resources.resources
+C:\Users\pc\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CopyComplete
+C:\Users\pc\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.exe
+C:\Users\pc\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.pdb
+C:\Users\pc\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.ScanShield.resources
+C:\Users\pc\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_Product_Info.resources
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.exe
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.pdb
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_add_product.resources
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_login.resources
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_main.resources
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_Product_Info.resources
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_system.resources
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Properties.Resources.resources
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.ScanShield.resources
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CopyComplete
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.exe
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.pdb
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_L_Check.resources
+C:\Users\Dell\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_R_Check.resources
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_add_product.resources
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_login.resources
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_L_Check.resources
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_main.resources
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_Product_Info.resources
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_R_Check.resources
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_system.resources
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.ScanShield.resources
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.exe
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.pdb
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.exe
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.pdb
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_DatabaseQuery.resources
+C:\Users\Lenovo\Desktop\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_OperatingInstructions.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.exe
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.pdb
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_DatabaseQuery.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_add_product.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_login.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_L_Check.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_main.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_OperatingInstructions.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_Product_Info.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_R_Check.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_system.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Properties.Resources.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.ScanShield.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CopyComplete
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.exe
+C:\Users\pc\Desktop\SANHUA_MAIN(1)\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.pdb
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_DatabaseQuery.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_add_product.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_login.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_L_Check.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_main.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_OperatingInstructions.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_Product_Info.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_R_Check.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_system.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Properties.Resources.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.ScanShield.resources
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.exe
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.pdb
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.exe
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.pdb
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CopyComplete
+C:\Users\pc\Desktop\SANHUA_MAIN(1) - 副本\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.exe
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.pdb
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_DatabaseQuery.resources
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_add_product.resources
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_login.resources
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_L_Check.resources
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_main.resources
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_OperatingInstructions.resources
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_Product_Info.resources
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_R_Check.resources
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_system.resources
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Properties.Resources.resources
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.ScanShield.resources
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CopyComplete
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.exe
+C:\Users\pc\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.pdb
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.exe
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.pdb
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_DatabaseQuery.resources
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_add_product.resources
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_login.resources
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_L_Check.resources
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_main.resources
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_OperatingInstructions.resources
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_Product_Info.resources
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_R_Check.resources
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_system.resources
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.ScanShield.resources
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.exe
+C:\Users\Administrator\Desktop\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.pdb
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.exe
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.pdb
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_DatabaseQuery.resources
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_add_product.resources
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_login.resources
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_L_Check.resources
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_main.resources
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_OperatingInstructions.resources
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_Product_Info.resources
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_R_Check.resources
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_system.resources
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Properties.Resources.resources
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.ScanShield.resources
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CopyComplete
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.exe
+C:\Users\Lenovo\Documents\WeChat Files\xiaohu940673\FileStorage\File\2022-11\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.pdb
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.AssemblyReference.cache
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_DatabaseQuery.resources
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_add_product.resources
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_login.resources
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_L_Check.resources
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_main.resources
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_OperatingInstructions.resources
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_Product_Info.resources
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_R_Check.resources
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Form_system.resources
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.Properties.Resources.resources
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.ScanShield.resources
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.GenerateResource.cache
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CoreCompileInputs.cache
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.exe
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.pdb
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.exe
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\bin\Debug\SANHUA_MAIN.pdb
+C:\新建文件夹\SANHUA_MAIN11.04\SANHUA_MAIN\SANHUA_MAIN\SANHUA_MAIN\obj\Debug\SANHUA_MAIN.csproj.CopyComplete
